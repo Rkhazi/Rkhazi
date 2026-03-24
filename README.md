@@ -26,7 +26,7 @@ Hello! I'm a passionate developer who enjoys learning new technologies, building
 ---
 
 ## 🛠️ Tools
-VS Code • Git • GitHub • Supabase
+VS Code • Git • GitHub • Supabase • Firebase
 
 ---
 
